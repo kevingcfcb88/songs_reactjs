@@ -1,0 +1,1 @@
+Creating a list of songs and showing the detail of the song selected using ReactJS and Redux.
